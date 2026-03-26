@@ -79,4 +79,4 @@ python solver.py --algorithm astar --level 1
 ```
 
 ## 7. Conclusion
-This project illustrates the application of classical AI search techniques to complex puzzle-solving. Through the rigorous analysis in Task 6, we demonstrate that informed search, coupled with domain-specific deadlock detection, provides a robust framework for solving PSPACE-complete problems like Sokoban.
+This project illustrates the application of classical AI search techniques to complex puzzle-solving. Informed search, coupled with domain-specific deadlock detection, provides a robust framework for solving PSPACE-complete problems like Sokoban.
